@@ -536,6 +536,16 @@ ul.nnn {
     background-color: #f2f0eb;
         margin-top: 119px;
 }
+.r, .rr{
+    text-decoration: none;
+}
+.r:hover
+{
+    color: black;
+}
+.rr{
+    color: white !important;
+}
 .dd5{
         margin-top: 53px;
         display:flex;
